@@ -1,5 +1,5 @@
 # Project Outline
-> Created by [ Ece Degirmen ] for COMP 290: Essential Tools for Computer Science.
+> Created by Ece Degirmen for COMP 290: Essential Tools for Computer Science.
 
 In the project outline, you will specify details about the type of application that you will develop. Your project outline should answer the following questions:
 
