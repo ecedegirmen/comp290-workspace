@@ -10,5 +10,6 @@ For these public repositories to count, please paste the links below. You are no
 
 **Repository Links:**
 - *If you created public repositories for your work, please paste them here.*
-[My final project public repository:](https://github.com/ecedegirmen/comp290-workspace)
+[My final project public repository](https://github.com/ecedegirmen/comp290-workspace)
 
+gi
