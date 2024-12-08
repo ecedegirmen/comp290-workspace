@@ -1,6 +1,6 @@
 # Action Plan
 
-> Created by [your name] for COMP 290: Essential Tools for Computer Science
+> Created by Ece Degirmen for COMP 290: Essential Tools for Computer Science
 
 The final task of your final project is to create an action plan for the project / idea you have come up with. Below serves as a template outlining the expectations for your outline. You will receive full points as long as you make a good-faith effort in creating goals and good tasks for each month. You can also choose which months you would like to include in the 6-month action plan.
 
