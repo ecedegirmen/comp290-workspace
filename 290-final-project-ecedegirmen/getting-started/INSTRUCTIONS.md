@@ -9,7 +9,7 @@ For this part of the assignment, you will complete a Getting Started tutorial ba
 For these public repositories to count, please paste the links below. You are not required to create a separate public repository for your work, but it may be a great way to add something to your portfolio.
 
 **Repository Links:**
-- *If you created public repositories for your work, please paste them here.*
-[My final project public repository](https://github.com/ecedegirmen/comp290-workspace)
-
-gi
+*If you created public repositories for your work, please paste them here.*
+- [My final project public repository](https://github.com/ecedegirmen/comp290-workspace)
+- [TypeHero Tutorials repository](https://github.com/ecedegirmen/TypeHero-Tutorial.git)
+- [Screenshots of progress in React Tutorial](https://github.com/ecedegirmen/comp290-workspace/tree/main/React_Tutorial/react%20screenshots)
